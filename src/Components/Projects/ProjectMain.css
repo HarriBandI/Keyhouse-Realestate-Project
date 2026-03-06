@@ -1,0 +1,13 @@
+.project-bg {
+    background-image: url('https://img.freepik.com/free-photo/chinese-city_1127-4129.jpg?w=1060&t=st=1711946403~exp=1711947003~hmac=edb18e391aad9c493b4d1bbef21740952abf78859c2c6bdc3a5d41c011da1984');
+    background-size: cover;
+    background-position: center;
+    height: 80vh; 
+}
+/*sagarroad bg */
+.sagar-bg {
+    background-image: url('https://img.freepik.com/free-photo/building-view-from-field_1112-634.jpg?w=900&t=st=1711952976~exp=1711953576~hmac=8686aadc88c17ef09262d5a9bd715ad31e091811d03635f77e6abca30ec0da8f');
+    background-size: cover;
+    background-position: center;
+    height: 80vh; 
+}

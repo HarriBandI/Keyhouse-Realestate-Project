@@ -1,0 +1,26 @@
+#basic-nav-dropdown {
+    color: #000;
+    font-weight: 600;
+    font-size: 3vh;
+}
+#basic-nav-dropdown2 {
+    color: blue;
+}
+/* Middle Out */
+.sliding-middle-out {
+	display: inline-block;
+	position: relative;
+}
+.sliding-middle-out:after {
+	content: '';
+	display: block;
+	margin: auto;
+	height: 4px;
+	width: 0px;
+	background: transparent;
+	transition: width .5s ease, 
+}
+.sliding-middle-out:hover:after {
+	width: 100%;
+	background: #3366FF;
+}
